@@ -66,7 +66,7 @@
 			lecturerButtonAdmin.Name = "lecturerButtonAdmin";
 			lecturerButtonAdmin.Size = new Size(256, 132);
 			lecturerButtonAdmin.TabIndex = 1;
-			lecturerButtonAdmin.Text = "Dėstytojų valdymo panelė";
+			lecturerButtonAdmin.Text = "Dėstytojų valdymo panelė (Kolkas neveikia)";
 			lecturerButtonAdmin.UseVisualStyleBackColor = true;
 			lecturerButtonAdmin.Click += lecturerButtonAdmin_Click;
 			// 
